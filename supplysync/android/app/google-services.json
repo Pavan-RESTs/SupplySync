@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198671145998",
+    "project_id": "supplysync-1b1ef",
+    "storage_bucket": "supplysync-1b1ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198671145998:android:a8b4fb33c196a91ffe705f",
+        "android_client_info": {
+          "package_name": "com.example.supplysync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_rNcg6UsmKz8-pso8a69UxmlpkxWFnj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
